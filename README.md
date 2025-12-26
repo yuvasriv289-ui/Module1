@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output
-![alt text](P-1.png)
+
+<img width="472" height="371" alt="IMG1" src="https://github.com/user-attachments/assets/3713cebe-a3bb-4793-828e-b34d0842f596" />
 
 ## Result
 Thus, the program has been executed successfully.
@@ -55,7 +56,8 @@ print("d:", d)
 
 ```
 ## Output
-![alt text](P-2.png)
+
+<img width="1182" height="338" alt="IMG2" src="https://github.com/user-attachments/assets/f95d70d0-9da7-4fa4-bbff-53424a6bb59b" />
 
 ## Result
 Thus, the program has been executed successfully.
@@ -77,7 +79,7 @@ print('a')
 ```
 
 ## Output
-![alt text](P-3.png)
+<img width="947" height="245" alt="IMG3" src="https://github.com/user-attachments/assets/56b4d6ba-7a1c-4823-837c-20b9eca1110a" />
 
 ## Result
 Thus,the program has been executed successfully.
@@ -107,8 +109,7 @@ print("Imaginary part:",x.imag)
 ```
 
 ## Output
-
-![alt text](P-4.png)
+<img width="891" height="232" alt="IMG4" src="https://github.com/user-attachments/assets/87c18afe-e7a4-4ee7-9dce-0b5ee2794f84" />
 
 ## Result
 Thus,the program has been executed successfully.
@@ -131,7 +132,7 @@ print(men_stepped_on_the_moon)
 ```
 
 ## Output
+<img width="850" height="253" alt="IMG5" src="https://github.com/user-attachments/assets/a837e63d-1fd5-45d6-8490-b6a24a046eb1" />
 
-![alt text](P-5.png)
 ## Result
 Thus,the program has been executed successfully.
